@@ -20,7 +20,7 @@
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"A method is a line of code that will always execute a specific action without argument, like creating a new html element from within js. A function primarely relies on arguments to choose whether or not to execute a line of code."
 
 /**
  * QUESTION #2 -
@@ -34,7 +34,7 @@ for (let i = 0; i = timesToLoop; i++) {
     console.log('I am looping!');
 }
 
-""
+"The second argument in the for loop should be ' i < timesToLoop' for the function to successfully loop."
 
 /**
  * QUESTION #3 -
@@ -44,7 +44,7 @@ for (let i = 0; i = timesToLoop; i++) {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"const"
 
 /**
  * QUESTION #4 -
@@ -53,7 +53,9 @@ for (let i = 0; i = timesToLoop; i++) {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"The main reasons to use a function are to see if variable(s) against certain arguments execute as truthy or falsy. Functions can trigger alternating event listeners based on different sets of arguments and the route the function ends up running."
+
+"Can we do a segment on technical writing? I apoligize in advance."
 
 /**
  * QUESTION #5 -
@@ -67,7 +69,7 @@ for (let i = 0; i = timesToLoop; i++) {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"C"
 
 /**
  * QUESTION #6 -
@@ -76,7 +78,7 @@ for (let i = 0; i = timesToLoop; i++) {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"Document Object Model"
 
 /**
  * QUESTION #7 -
@@ -95,7 +97,7 @@ function testQuestionSeven() {
     }
 }
 
-""
+" 'Yes!' "
 
 /**
  * QUESTION #8 -
@@ -105,7 +107,7 @@ function testQuestionSeven() {
  * Hint: Think of their general TYPE....
  */
 
-""
+"They are all the type 'Number' "
 
 /**
  * QUESTION #9 -
@@ -114,7 +116,7 @@ function testQuestionSeven() {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"An IIFE allows for declared variables at the top of a js file to be used in global scope for the rest the js file, throughout any function."
 
 /**
  * QUESTION #10 -
@@ -135,7 +137,7 @@ switch (value) {
         console.log('We are out of food...');
 };
 
-""
+" 'We are out of food...' "
 
 /**
  * QUESTION #11 -
@@ -145,8 +147,11 @@ switch (value) {
  */
 
 function createGrid(width, height) {
+    
 
 }
+
+"Brain fart - also made my PAM linking to html inputWidth/Height instead of div's/squares.. will have to study up this one. Sorry!"
 
 /**
  * QUESTION #12 -
@@ -155,7 +160,7 @@ function createGrid(width, height) {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"A global variable can be part of any line of code within the js file. A local variable is only avaiable to the function they live within."
 
 /**
  * QUESTION #13 - (EXTRA CREDIT!)
@@ -169,4 +174,4 @@ function createGrid(width, height) {
  * Answer Type: String (Add Answer Between Quotes)
  */
 
-""
+"C"
